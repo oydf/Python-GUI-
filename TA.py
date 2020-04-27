@@ -10,6 +10,7 @@ from urllib.parse import quote
 import  string
 
 123456678912312121212120
+12345667890qwehiuqwheuhwqiehiuwqheiu
 def translater_somewords(src_word):
     data = {}
     url = "http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule&smartresult=ugc&sessionFrom=null"
